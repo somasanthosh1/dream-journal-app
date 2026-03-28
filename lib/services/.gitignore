@@ -1,0 +1,23 @@
+# Flutter
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+*.iml
+
+# Firebase - IMPORTANT: keep your keys private
+google-services.json
+GoogleService-Info.plist
+firebase_options.dart
+
+# IDE
+.idea/
+.vscode/
+*.suo
+*.user
+
+# Misc
+*.log
+.DS_Store
+pubspec.lock
