@@ -87,15 +87,6 @@ lib/
 
 ---
 
-## 👨‍💻 Developer
-
-- Name: [Your Name]
-- Role: Team Lead
-- College: [Your College Name]
-- Department: Computer Science and Engineering
-- Academic Year: 2025 - 2026
-
----
 
 ## 📄 License
 
